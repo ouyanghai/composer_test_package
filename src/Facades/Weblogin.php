@@ -1,10 +1,10 @@
 <?php
-namespace Oyan\Packagetest\Facades;
+namespace Oyan\Weblogin\Facades;
 use Illuminate\Support\Facades\Facade;
-class Packagetest extends Facade
+class Weblogin extends Facade
 {
     protected static function getFacadeAccessor()
     {
-        return 'packagetest';
+        return 'weblogin';
     }
 }

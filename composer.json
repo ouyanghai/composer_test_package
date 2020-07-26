@@ -1,5 +1,5 @@
 {
-    "name": "oyan/package-for-test",
+    "name": "oyan/web-for-login",
     "authors": [
         {
             "name": "ouyanghai",
@@ -9,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Oyan\\Packagetest\\": "src/"
+            "Oyan\\Weblogin\\": "src/"
         }
     }
 }
