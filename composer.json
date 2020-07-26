@@ -1,0 +1,15 @@
+{
+    "name": "test/package-for-test",
+    "authors": [
+        {
+            "name": "ouyanghai",
+            "email": "ouyanghai@wondershare.cn"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Oyan\\Packagetest\\": "src/"
+        }
+    }
+}
